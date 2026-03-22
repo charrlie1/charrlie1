@@ -125,7 +125,7 @@ Designed and compared classical PID and modern Linear Quadratic Regulator (LQR) 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d4ff&label=portfolio)](https://your-portfolio-url.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d4ff&label=portfolio)](https://your-portfolio-url.com)-->
 [![Email](https://img.shields.io/badge/charlesabodunrin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesabodunrin@gmail.com)
 [![GitHub](https://img.shields.io/badge/charrlie1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charrlie1)
 
