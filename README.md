@@ -24,7 +24,7 @@ alias:      Tolu
 location:   Ile-Ife, Osun State · Nigeria
 university: Obafemi Awolowo University (OAU)
 degree:     B.Eng. Electrical & Electronics Engineering
-status:     Undergraduate · Final Year
+status:     Undergraduate · Third Year
 ```
 
 I'm an EEE engineer who lives at the intersection of hardware and software — designing embedded systems, exploring signal processing pipelines, and modelling control-theoretic behaviour. I care about building things that *work*, at a level where the math, the firmware, and the physical world have to agree simultaneously.
