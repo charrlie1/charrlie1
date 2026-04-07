@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electrical+%26+Electronics+Engineer;Embedded+Systems+Developer;Signal+Processing+%7C+Control+Theory;Hardware+%2B+Software+%3D+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ELectronic+%26+Electrical+Engineer;Embedded+Systems+Developer;Signal+Processing+%7C+Control+Theory;Hardware+%2B+Software+%3D+Everything)](https://git.io/typing-svg)
 
 <br/>
 
